@@ -22,7 +22,7 @@ body{
 	}
 
 	
-	 #imglogo{ /* logo */
+	 #imglogo{ /* Logotipo.jpg */
 		max-width:auto; /*propiedad, define el ancho máximo que un elemento puede tener*/
 		 /* propiedad width css establece el ancho de un elemento. Auto - Valor por defecto. El navegador calcula el ancho*/
 		height:auto; /* propiedad height css establece la altura de un elemento*/
